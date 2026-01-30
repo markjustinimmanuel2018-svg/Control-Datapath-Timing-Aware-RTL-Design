@@ -56,15 +56,10 @@ Each folder contains:
 
 
 | Week |           Projects           |                  Key Concepts                  |
-
 -----------------------------------------------------------------------------
-
 |   5  |        Mini CPU Core         | FSM control, datapath blocks, instruction flow |
-
 |   6  |     Reusable RTL Library     |       Parameterized RTL, modular design        |
-
 |   7  |    Timing-Aware Datapath     |  reg -> comb -> reg timing, pipeline staging   |
-
 |   8  | Multi-Cycle Execution Engine |      FSM-controlled multi-cycle execution      |
 
 
